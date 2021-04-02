@@ -9,6 +9,18 @@ Aplicativo de Visualização de Dados de Cabos de Redes de Fibra Óptica no Bras
 
 Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisarem de informações sobre as redes do brasil ou que estão simplesmente conhecer a infraestrutura de fibras ópticas no Brasil.
 
+## Desenvolvimento do App
+
+
+### Fluxograma 
+
+![App Fibras do Brasil Fluxograma](https://github.com/brunoarrudaufpe/FibrasdoBrasil/blob/main/imagens/FibrasdoBrasil-Fluxograma.png?raw=true)
+
+
+### Telas e Árvore de Widgets 
+
+
+
 ## Como Você Pode Ajudar
 
 * Avise sobre [issues](https://github.com/brunoarrudaufpe/FibrasdoBrasil/issues)
