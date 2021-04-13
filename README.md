@@ -7,7 +7,7 @@ Aplicativo de Visualização de Dados de Cabos de Redes de Fibra Óptica no Bras
 
 É assim que o aplicativo funciona: Na tela inicial, existe um mapa do Brasil indicando as principais redes (backbone) de fibra óptica do país. Você pode explorar o mapa e escolher um rede específica e as estatísticas de qualidade relacionadas a esta rede irão ser exibidos. É dada uma opção de acesso aos dados brutos,  e um arquivo .csv pode ser baixado.
 
-Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisarem de informações sobre as redes do brasil ou que estão simplesmente conhecer a infraestrutura de fibras ópticas no Brasil.
+Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisarem de informações sobre as redes do brasil ou que estão simplesmente interessadas em conhecer a infraestrutura de fibras ópticas no Brasil.
 
 ## Desenvolvimento do App
 
