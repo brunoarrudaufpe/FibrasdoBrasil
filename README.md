@@ -17,7 +17,7 @@ Este primeiro vídeo tem como principal objetivo mostra de forma rápida a ideia
 
 Estou outro vídeo, mostra de forma clara o funcionamento de todos os recursos dentro do aplicativo.
 
-- [Funcionamento do App Fibras do Brasil]()
+- [Funcionamento do App Fibras do Brasil](https://www.youtube.com/watch?v=oNITMcEALvI)
 
 
 ## 📍 Features do App(ILIVE) e suas características
