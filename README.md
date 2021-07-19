@@ -11,11 +11,11 @@ Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisare
 
 ## 💻 Videos de apresentação do Fibras do Brasil
 
-Este primeiro vídeo tem como principal objetivo mostra de forma rápida a ideia geral do projeto.
+Este primeiro vídeo tem como principal objetivo mostrar de forma rápida a ideia geral do projeto.
 
 - [Pitch Fibras do Brasil](https://www.youtube.com/watch?v=Cs6fKo4Tn1w)
 
-Estou outro vídeo, mostra de forma clara o funcionamento de todos os recursos dentro do aplicativo.
+Este outro vídeo, mostra de forma clara o funcionamento de todos os recursos dentro do aplicativo.
 
 - [Funcionamento do App Fibras do Brasil](https://www.youtube.com/watch?v=oNITMcEALvI)
 
