@@ -9,8 +9,31 @@ Aplicativo de Visualização de Dados de Redes de Fibra Óptica no Brasil
 
 Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisarem de informações sobre as redes do brasil ou que estão simplesmente interessadas em conhecer a infraestrutura de fibras ópticas no Brasil.
 
+## 💻 Videos de apresentação do Fibras do Brasil
+
+Este primeiro vídeo tem como principal objetivo mostra de forma rápida a ideia geral do projeto.
+
+- [Pitch Fibras do Brasil]()
+
+Estou outro vídeo, mostra de forma clara o funcionamento de todos os recursos dentro do aplicativo.
+
+- [Funcionamento do App Fibras do Brasil]()
+
+
+## 📍 Features do App(ILIVE) e suas características
+
+- Exibição dos terminais de Fibra Óptica da Rede Nacional de Ensino e Pesquisa (RNP) através de marcadores nos mapas;
+- Exibição de qualidade da rede nos terminais através de clique no marcador;
+- Busca de terminais de Fibra Óptica da RNP através de uma barra de pesquisa pelo nome ou pela capacidade de Download;
+- Redirecionamento no mapa para o terminal selecionado;
+- Exibição de capacidade de download e upload, e da qualidade da rede em uma página dedicada de estatísticas;
+- Disponibilização para baixar em arquivo os dados completos dos terminais da rede.
+
 ## Desenvolvimento do App
 
+### Logotipo fibrasdoBR-LOGO2.png 
+
+![](imagens/fibrasdoBR-LOGO2.png)
 
 ### Fluxograma 
 
