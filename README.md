@@ -85,20 +85,9 @@ Estou outro vídeo, mostra de forma clara o funcionamento de todos os recursos d
 ## Como Você Pode Ajudar
 
 * Avise sobre [issues](https://github.com/brunoarrudaufpe/FibrasdoBrasil/issues)
-* Outras formas de contribuição *em desenvolvimento*
-
-## Mais Detalhes do Projeto
-
-*Em desenvolvimento*
-
-## Dependências
-
-*Em desenvolvimento*
+* Disponibilizar mais dados de outros terminais e rotas das redes de fibra óptica.
 
 ## História
 
 Este aplicativo foi desenvolvido como projeto da disciplina de **Fundamentos de Programação Aplicada do Programa** de Pós-Graduação em Informática Aplicada da UFRPE.
 
-## Licença
-
-*Em desenvolvimento*
