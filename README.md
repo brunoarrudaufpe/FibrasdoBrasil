@@ -41,25 +41,21 @@ Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisare
 
 ### Telas do App
 
-- Tela Main
-
-![](imagens/main-tela.png)
-
 - Tela MainPage
 
-![](imagens/MainPage-tela.png)
+![](imagens/MainPage-tela.jpg)
 
 - Tela Stats
 
-![](imagens/stats-tela.png)
+![](imagens/stats-tela.jpg)
 
 - Tela Maps
 
-![](imagens/maps-tela.png)
+![](imagens/maps-tela.jpg)
 
 - Tela Search
 
-![](imagens/Search-tela.png)
+![](imagens/Search-tela.jpg)
 
 
 
