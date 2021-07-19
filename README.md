@@ -13,7 +13,7 @@ Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisare
 
 Este primeiro vídeo tem como principal objetivo mostra de forma rápida a ideia geral do projeto.
 
-- [Pitch Fibras do Brasil]()
+- [Pitch Fibras do Brasil](https://www.youtube.com/watch?v=Cs6fKo4Tn1w)
 
 Estou outro vídeo, mostra de forma clara o funcionamento de todos os recursos dentro do aplicativo.
 
