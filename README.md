@@ -19,18 +19,23 @@ Fibras do Brasil pode beneficiar todas as pessoas e organizações que precisare
 
 ### Árvore de Widgets 
 - Main
+
 ![](imagens/main.png)
 
 - MainPage
+
 ![](imagens/MainPage.png)
 
 - Stats
+
 ![](imagens/stats%20(1).png)
 
 - Maps
+
 ![](imagens/maps.png)
 
 - Search
+
 ![](imagens/Search.png)
 
 
